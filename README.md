@@ -1,5 +1,4 @@
-# my_projects
-My project portfolio - showcases a variety of data analysis, machine learning, and software development projects.
+# my_projects Portfolio 
 
 # [Project 1: House Sales Data Analysis](https://github.com/Sirius-Ife/houseSales_analysis)
 
