@@ -18,4 +18,3 @@
 
 **Skills Demonstrated:** Data preprocessing, dimensionality reduction, clustering analysis, visualization, project documentation.
 
-This project has been added to your professional portfolio alongside your previous projects. Each project showcases different skills and techniques in data analysis, providing a comprehensive overview of your expertise in the field.
