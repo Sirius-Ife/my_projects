@@ -12,7 +12,7 @@
 
 **Skills Demonstrated:** Text processing, sentiment analysis, data visualization, project documentation.
 
-# [Project 3: Market Segmentation Analysis](https://github.com/Sirius-Ife/market_segmentation_analysis)
+# [Project 3: Market Segmentation Analysis](https://github.com/Sirius-Ife/market_segementation_analysis)
 
 **Description:** Utilized unsupervised learning techniques including PCA and k-means clustering to perform market segmentation analysis on customer data. Explored patterns, visualized clusters, and provided insights to inform marketing strategies.
 
