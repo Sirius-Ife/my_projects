@@ -18,7 +18,7 @@
 
 **Skills Demonstrated:** Data preprocessing, dimensionality reduction, clustering analysis, visualization, project documentation.
 
-## [Project 4: Customer Churn Analysis](https://github.com/Sirius-Ife/customer_churn_analysis)
+## [Project 4: Customer Churn Analysis](https://github.com/Sirius-Ife/customer_churn_analysis-updated-)
 
 **Description:** Developed a comprehensive customer churn analysis framework to identify factors influencing customer attrition for a telecommunications company. Conducted data preprocessing, and exploratory data analysis (EDA), and applied machine learning algorithms such as logistic regression, decision trees, and random forest to predict churn probabilities. Utilized techniques such as feature engineering and model evaluation to improve predictive performance. Presented actionable insights and recommendations to mitigate churn rates.
 
