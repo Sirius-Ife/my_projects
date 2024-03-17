@@ -24,4 +24,10 @@
 
 **Skills Demonstrated:** Data preprocessing, exploratory data analysis, machine learning (logistic regression, decision trees, random forest), feature engineering, model evaluation, presentation of insights and recommendations, project documentation.
 
-This portfolio demonstrates my proficiency in various data analysis and machine learning techniques applied to real-world problems, showcasing my ability to extract insights and provide actionable recommendations for business decisions.
+## [Project 5: Market Basket Analysis](https://github.com/Sirius-Ife/market_basket_analysis)
+
+**Description:** Applied market basket analysis techniques to analyze transaction data and uncover patterns of co-occurrence among items purchased together. Implemented the Apriori algorithm to extract association rules, which provided insights for optimizing product placement, cross-selling, and targeted marketing strategies.
+
+**Skills Demonstrated:** Market basket analysis, association rule mining, Apriori algorithm implementation, data preprocessing, visualization, project documentation.
+
+This portfolio showcases a diverse range of data analysis and machine learning projects, highlighting proficiency in extracting actionable insights from various datasets and applying advanced analytical techniques to solve real-world problems.
