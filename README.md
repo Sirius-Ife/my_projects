@@ -1,4 +1,4 @@
-** professional portfolio. ** 
+**professional portfolio** 
 
 ## [Project 1: House Sales Data Analysis](https://github.com/Sirius-Ife/houseSales_analysis)
 
@@ -19,7 +19,6 @@
 **Skills Demonstrated:** Data preprocessing, dimensionality reduction, clustering analysis, visualization, project documentation.
 
 ## [Project 4: Customer Churn Analysis](https://github.com/Sirius-Ife/customer_churn_analysis-updated-)
-
 **Description:** Developed a comprehensive customer churn analysis framework to identify factors influencing customer attrition for a telecommunications company. Conducted data preprocessing, and exploratory data analysis (EDA), and applied machine learning algorithms such as logistic regression, decision trees, and random forest to predict churn probabilities. Utilized techniques such as feature engineering and model evaluation to improve predictive performance. Presented actionable insights and recommendations to mitigate churn rates.
 
 **Skills Demonstrated:** Data preprocessing, exploratory data analysis, machine learning (logistic regression, decision trees, random forest), feature engineering, model evaluation, presentation of insights and recommendations, project documentation.
@@ -29,5 +28,11 @@
 **Description:** Applied market basket analysis techniques to analyze transaction data and uncover patterns of co-occurrence among items purchased together. Implemented the Apriori algorithm to extract association rules, which provided insights for optimizing product placement, cross-selling, and targeted marketing strategies.
 
 **Skills Demonstrated:** Market basket analysis, association rule mining, Apriori algorithm implementation, data preprocessing, visualization, project documentation.
+
+## [Project 6: A/B Testing Analysis](https://github.com/Sirius-Ife/a-b_testing_analysis)
+
+**Description:** Analyzed the results of an A/B testing experiment on a website's old and new landing pages. Designed and analyzed the A/B tests, performed statistical significance tests, and provided insights to optimize future experiments based on results.
+
+**Skills Demonstrated:** Experimental design, statistical analysis, hypothesis testing, data visualization, project documentation.
 
 This portfolio showcases a diverse range of data analysis and machine learning projects, highlighting proficiency in extracting actionable insights from various datasets and applying advanced analytical techniques to solve real-world problems.
