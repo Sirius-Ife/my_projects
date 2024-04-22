@@ -50,6 +50,13 @@ This repository serves as a professional portfolio showcasing a variety of data 
 
 **Skills Demonstrated:** Experimental design, statistical analysis, hypothesis testing, data visualization, project documentation.
 
+### [Project 7: Time Series Forecasting with Pallet Pricing Data](https://github.com/Sirius-Ife/time_series/tree/main)
+
+**Description:** Implemented time series forecasting techniques on pallet pricing data to predict future prices based on historical trends. The project included data preprocessing, exploratory data analysis, autocorrelation analysis, and modeling using various time series forecasting methods.
+
+**Skills Demonstrated:** Time series analysis, data preprocessing, autocorrelation analysis, forecasting modeling, project documentation.
+
+
 ## Additional Information
 
 This portfolio showcases a diverse range of data analysis and machine learning projects, highlighting proficiency in extracting actionable insights from various datasets and applying advanced analytical techniques to solve real-world problems.
