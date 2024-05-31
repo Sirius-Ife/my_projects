@@ -56,6 +56,12 @@ This repository serves as a professional portfolio showcasing a variety of data 
 
 **Skills Demonstrated:** Time series analysis, data preprocessing, autocorrelation analysis, forecasting modeling, project documentation.
 
+### [Project 8: Text Analysis of PALLET MARKET SURVEY REPORT]([https://github.com/Sirius-Ife/time_series/tree/main](https://github.com/Sirius-Ife/text_analysis))
+
+**Description:** Conducted text analysis and NLP on survey data related to the pallet market to extract insights and trends.
+
+**Skills Demonstrated:** Text processing, sentiment analysis, NLP techniques, data visualization, project documentation.
+
 
 ## Additional Information
 
